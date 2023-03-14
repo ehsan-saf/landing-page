@@ -24,3 +24,8 @@ a {
 .welcome {
     display: flex;
 }
+
+.description {
+    display: flex;
+    flex-direction: column;
+}
