@@ -1,3 +1,11 @@
+body, html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
 .first-section {
     display: flex;
     flex-direction: column;
@@ -20,6 +28,11 @@
 
 a {
     text-decoration: none;
+}
+
+button {
+    align-self: flex-start;
+    padding: 3px 18px;
 }
 
 .welcome {
