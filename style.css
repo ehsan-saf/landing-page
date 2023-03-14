@@ -1,6 +1,7 @@
 .first-section {
     display: flex;
     flex-direction: column;
+    gap: 80px;
 }
 
 .nav {
