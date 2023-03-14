@@ -7,3 +7,10 @@
     display: flex;
     justify-content: space-between;
 }
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
