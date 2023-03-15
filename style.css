@@ -17,6 +17,10 @@ html {
     padding: 10px 30px 100px 80px;
 }
 
+.first-section div {
+    flex: 0 0 auto;
+}
+
 .logo {
     color: #f9faf8;
     font-size: 24px;
@@ -27,6 +31,7 @@ html {
     align-items: center;
     justify-content: space-between;
 }
+
 
 .nav-links {
     display: flex;
@@ -52,6 +57,7 @@ button {
 
 .welcome {
     display: flex;
+    gap: 30px;
 }
 
 .welcome-image {
