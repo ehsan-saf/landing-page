@@ -1,6 +1,7 @@
 body,
 html {
     box-sizing: border-box;
+    margin: 0;
 }
 
 * {
@@ -12,6 +13,7 @@ html {
     flex-direction: column;
     gap: 80px;
     background-color: #1F2937;
+    padding: 10px 30px 100px 80px;
 }
 
 .logo {
