@@ -28,11 +28,13 @@ html {
 .nav {
     display: flex;
     flex-direction: column;
+    gap: 100px;
 }
 
 
 .nav-links {
     display: flex;
+    justify-content: flex-end;
     gap: 20px;
     list-style: none;
     padding: 0;
