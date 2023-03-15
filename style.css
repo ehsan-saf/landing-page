@@ -11,6 +11,7 @@ html {
 
 .first-section {
     display: flex;
+    justify-content: center;
     gap: 80px;
     background-color: #1F2937;
     padding: 10px 30px 100px 80px;
