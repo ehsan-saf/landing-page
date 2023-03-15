@@ -59,6 +59,7 @@ button {
 
 .welcome {
     display: flex;
+    flex-direction: column;
     gap: 30px;
 }
 
