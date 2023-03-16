@@ -107,3 +107,10 @@ button {
     display: flex;
     gap: 50px;
 }
+
+.info-group {
+    height: auto;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+}
