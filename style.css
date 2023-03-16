@@ -114,3 +114,7 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+.info-image {
+    border-radius: 7px;
+}
