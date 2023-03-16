@@ -144,3 +144,7 @@ button {
     font-weight: lighter;
     color: #1F2937;
 }
+
+.quote-ref {
+    align-self: flex-end;
+}
