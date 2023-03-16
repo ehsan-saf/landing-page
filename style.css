@@ -87,3 +87,12 @@ button {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+/* .............................. */
+/* Second section */
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
