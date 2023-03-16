@@ -120,3 +120,12 @@ button {
 .info-image {
     border-radius: 7px;
 }
+
+/* ............................ */
+/* Quote section */
+
+.quote-section {
+    display: flex;
+    background-color: #E5E7EB;
+    padding: 60px 0px 60px;
+}
