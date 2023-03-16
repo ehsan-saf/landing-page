@@ -135,3 +135,10 @@ button {
 .quote-container {
     max-width: 600px;
 }
+
+.quote-text {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+}
