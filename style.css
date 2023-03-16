@@ -126,6 +126,12 @@ button {
 
 .quote-section {
     display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #E5E7EB;
     padding: 60px 0px 60px;
+}
+
+.quote-container {
+    max-width: 600px;
 }
