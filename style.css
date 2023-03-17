@@ -188,4 +188,5 @@ button {
 
 .sign-up-btn2 {
     border: solid 2px white;
+    align-self: flex-end;
 }
