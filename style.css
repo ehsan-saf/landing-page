@@ -166,6 +166,7 @@ button {
 .sign-up-container {
     display: flex;
     align-items: center;
+    background-color: #3882f6;
 }
 
 .sign-up-text {
