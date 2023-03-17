@@ -153,3 +153,22 @@ button {
     font-weight: bold;
     font-size: 18px;
 }
+
+/* ............................ */
+/* Sign up section */
+
+.sign-up-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-up-container {
+    display: flex;
+    align-items: center;
+}
+
+.sign-up-text {
+    display: flex;
+    flex-direction: column;
+}
