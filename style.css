@@ -172,3 +172,11 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+.sign-bold {
+    margin: 0;
+}
+
+.sign-sub {
+    margin: 0;
+}
