@@ -192,3 +192,16 @@ button {
     border: solid 2px white;
     align-self: flex-end;
 }
+
+
+/* .......................... */
+/*   footer    */
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+}
