@@ -111,6 +111,7 @@ button {
 
 .images-container {
     display: flex;
+    flex-wrap: wrap;
     gap: 50px;
 }
 
